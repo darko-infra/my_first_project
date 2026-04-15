@@ -1,5 +1,29 @@
-# My first Git project
+# My First Project 
 
-## Learning Linux and servers
+This is my very first project on GitHub.
 
-This project is now also cloned on my Hetzner server.
+##  What I learned
+- Basic Git & GitHub workflow (clone, commit, push)
+- Working with Linux terminal
+- Connecting local machine with a remote VPS (Hetzner)
+
+##   Server Experience
+This project is cloned and managed on my Linux server:
+- Debian VPS
+- SSH access
+- File management via terminal
+
+##  Purpose
+This project represents the starting point of my journey into:
+- Linux systems
+- Backend development
+- Server infrastructure
+
+##   Next Steps
+- Flask applications
+- Nginx configuration
+- Building real monitoring dashboards
+
+---
+
+  This is where everything started.
